@@ -1,0 +1,37 @@
+User-Agent: Googlebot-Image
+Allow: /index.html
+
+
+User-Agent: Slurp
+Allow: /index.html
+
+
+User-Agent: Lycos
+Allow: /index.html
+
+
+User-Agent: Seekbot
+Allow: /index.html
+
+
+User-Agent: Sistrix
+Allow: /index.html
+
+
+User-Agent: SearchmetricsBot
+Allow: /index.html
+
+
+User-Agent: BacklinkCrawler
+Allow: /index.html
+
+
+User-Agent: SEOkicks-Robot
+Allow: /index.html
+
+
+User-Agent: xovi
+Allow: /index.html
+
+
+Sitemap: sitemap.xml
