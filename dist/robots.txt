@@ -34,4 +34,4 @@ User-Agent: xovi
 Allow: /index.html
 
 
-Sitemap: sitemap.xml
+Sitemap: /sitemap.xml
